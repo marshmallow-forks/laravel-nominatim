@@ -1,5 +1,5 @@
 {
-    "name": "wimski/laravel-nominatim",
+    "name": "marshmallow/laravel-nominatim",
     "description": "Laravel integration for Nominatim Geocoding API Client",
     "license": "MIT",
     "type": "library",
